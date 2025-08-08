@@ -1,4 +1,4 @@
-# 🛡️ Ransomware Detection App
+# 🛡️ Ransomware Detection using Network Features in Windows Environments
 
 This project is a Windows desktop application that detects ransomware based on **network traffic behavior**. It uses **machine learning (XGBoost)** to classify `.exe` files as **benign or malicious**, using network features captured during execution. It is lightweight, GUI-based, and ideal for research or educational purposes.
 
